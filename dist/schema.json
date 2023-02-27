@@ -1,0 +1,23 @@
+[{
+    "name": "Time",
+    "type": "date",
+    "format": "%m/%d/%Y %H:%M"
+}, {
+    "name": "Barometer",
+    "type": "number"
+}, {
+    "name": "Humidity (%)",
+    "type": "number"
+}, {
+    "name": "Temperature (degC)",
+    "type": "number"
+}, {
+    "name": "Light",
+    "type": "number"
+}, {
+    "name": "Motion (secs per min of motion)",
+    "type": "number"
+}]
+
+
+        

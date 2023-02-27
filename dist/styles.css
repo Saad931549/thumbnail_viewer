@@ -1,0 +1,18 @@
+#nestImgDiv{
+    position: relative;
+    left: 65vw;
+    bottom: 90vh;
+    width: 30vw;
+    height: 40vh;
+
+}
+#container{
+    width: 40vw;
+}
+#nestImg{
+    position: relative;
+    left: 65vw;
+    bottom: 130vh;
+    width: 30vw;
+    height: 40vh;
+}
